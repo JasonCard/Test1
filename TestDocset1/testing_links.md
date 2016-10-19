@@ -1,4 +1,7 @@
+Source string:
 Go to the [Device Enrollment Program Portal](https://deploy.apple.com) (https://deploy.apple.com), and sign in with your company Apple ID.
+
+These translations seem to cause issues for OPS publishing:
 
 No space around parenthesis:  
 [장치 등록 프로그램 포털](https://deploy.apple.com)(https://deploy.apple.com)로 이동한 다음 회사 Apple ID로 로그인합니다.
